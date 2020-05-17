@@ -1,4 +1,6 @@
 ---
-:page_id: 3455
-:course_id: 239
-:canvas_url: https://learning.flatironschool.com/courses/239/pages/tcg-advanced-rails
+:lessons:
+- :id: 3934
+  :course_id: 272
+  :canvas_url: https://learning.flatironschool.com/courses/272/pages/tcg-advanced-rails
+  :type: page
